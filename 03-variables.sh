@@ -2,8 +2,8 @@
 
 # No space before or after equal
 
-PERSON1=Narendra Modi
-PERSON2=YS Jagan Mohan Reddy
+PERSON1=NarendraModi
+PERSON2=YSJaganMohanReddy
 
 echo "$PERSON1:: Hi $PERSON2, How are you doing?"
 echo "$PERSON2:: Hello $PERSON1, I am fine. How are you?"
